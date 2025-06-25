@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone i create a minecraft launcher that you play Minecraft java edition on your Android 
 
 <!--
 **PocketLauncher/PocketLauncher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
